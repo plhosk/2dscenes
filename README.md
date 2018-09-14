@@ -1,6 +1,4 @@
-# Silhouette
-
-## A real-time 2D graphics scene using Pixi.js
+## Silhouette - a real-time 2D graphics scene using Pixi.js
 
 Featuring bouncing balls with trails, and a teapot
 
@@ -8,4 +6,5 @@ See it in action here: [https://silhouette-plhosk.surge.sh](https://silhouette-p
 
 ---
 
-Paul Hoskinson (plhosk@gmail.com)
+Paul Hoskinson
+plhosk@gmail.com
