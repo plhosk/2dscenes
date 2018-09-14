@@ -71,11 +71,11 @@ class Silhouette extends React.Component {
     const outputSprite = new Pixi.Sprite(renderTexture)
     this.app.stage.addChild(outputSprite)
 
-    const maxVel = 5
+    const maxVel = 2
     const bounceRandomness = 0.2 * maxVel
 
     const dots = []
-    for (let i = 0; i < 1000; i += 1) {
+    for (let i = 0; i < 800; i += 1) {
       const dot = new Pixi.Graphics()
       dot.beginFill(0xFF9900)
       dot.drawCircle(-1, -1, 2)
